@@ -1,0 +1,30 @@
+body
+	{
+		background-color: powderblue;
+	}
+
+a:link, a:visited
+	{
+		background-color: lightseagreen;
+		color:white;
+		text-decoration: none;
+		padding: 16px;
+		text-align: center;
+		display: inline-block;
+		font-family: cursive;
+	}
+
+
+a:hover
+	{
+		color:teal;
+		background-color: white;
+		text-decoration: underline;
+	}
+
+a:active
+	{
+		color: green;
+		background-color: mintcream;
+		text-decoration: underline;
+	}
